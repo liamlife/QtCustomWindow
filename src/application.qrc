@@ -1,0 +1,12 @@
+<RCC>
+    <qresource prefix="/">
+        <file>res/svg/close.svg</file>
+        <file>res/svg/fullscreen.svg</file>
+        <file>res/svg/maximize.svg</file>
+        <file>res/svg/maximize2.svg</file>
+        <file>res/svg/minimize.svg</file>
+        <file>res/skin/black.qss</file>
+        <file>res/svg/icon.svg</file>
+        <file>res/zh_CN.qm</file>
+    </qresource>
+</RCC>
